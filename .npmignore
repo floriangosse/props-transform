@@ -1,0 +1,10 @@
+node_modules
+coverage
+.babelrc
+.editoconfig
+.eslintignore
+.eslintrc.js
+.travis.yml
+
+# Because it doesn't work correctly
+package-lock.json

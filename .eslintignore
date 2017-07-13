@@ -1,0 +1,9 @@
+# Include hidden files
+!/.*
+!/.*/**
+
+# Coverage
+/coverage
+
+# Ignore build folders
+/dist
