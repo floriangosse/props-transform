@@ -1,6 +1,6 @@
 {
   "name": "props-transform",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Transforms properties of an object by given transform functions.",
   "main": "dist/index.js",
   "scripts": {
