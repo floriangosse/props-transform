@@ -1,4 +1,4 @@
-# props-transform [![Build Status](https://travis-ci.org/floriangosse/props-transform.svg?branch=master)][travisci]
+# props-transform
 
 > Transforms properties of an object by given transform functions.
 
@@ -29,7 +29,3 @@ npm install --save props-transform
 ## License
 
 MIT
-
-
-<!-- Links -->
-[travisci]: https://travis-ci.org/floriangosse/props-transform "Travis CI"

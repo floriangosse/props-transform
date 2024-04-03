@@ -4,4 +4,3 @@ coverage
 .editoconfig
 .eslintignore
 .eslintrc.js
-.travis.yml
