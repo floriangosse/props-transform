@@ -1,6 +1,3 @@
 node_modules
 coverage
 dist
-
-# Because it doesn't work correctly
-package-lock.json
